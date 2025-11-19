@@ -1,4 +1,4 @@
-# Layered_GVD_exploration
+# Hierarchical_GVD_exploration
 
 **Paper has been submitted to IEEE Transactions on Automation Science and Engineering (TASE). We will release our code upon acceptance.** 🚀🚀🚀
 
@@ -11,5 +11,6 @@ Fig.1 Graphic abstract
 
 
 
-<img width="1003" height="307" alt="image" src="https://github.com/user-attachments/assets/2dccefcc-5e53-4e1a-bf18-efcc382bfee1" />
+<img width="1441" height="439" alt="image" src="https://github.com/user-attachments/assets/9b6b33e8-4647-4dcc-8f30-da147dd19f4f" />
+
 Fig.2 Pipeline
